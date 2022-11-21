@@ -26,7 +26,7 @@ bs4==0.0.1
 certifi==2021.10.8; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.6.0" and python_version < "4" and python_version >= "3.6"
 cffi==1.15.0; python_full_version >= "3.8.0" and (python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version < "4" and python_version >= "3.6") and os_name == "nt" and implementation_name != "pypy" and python_version >= "3.7" and python_version < "4.0"
 cfgv==3.3.1; python_full_version >= "3.6.1"
-charset-normalizer==2.0.12; python_full_version >= "3.6.0" and python_version >= "3.6"
+charset-normalizer==3.0.1; python_full_version >= "3.6.0" and python_version >= "3.6"
 click==8.1.2; python_version >= "3.7" and python_version < "4.0" and python_full_version >= "3.8.0"
 colorama==0.4.4; python_full_version >= "3.6.2" and python_version >= "3.4" and python_full_version < "4.0.0" and (python_version >= "2.7" and python_full_version < "3.0.0" and platform_system == "Windows" or python_full_version >= "3.5.0" and platform_system == "Windows") and (python_version >= "3.6" and python_full_version < "3.0.0" and platform_system == "Windows" or platform_system == "Windows" and python_version >= "3.6" and python_full_version >= "3.5.0") and (python_version >= "3.4" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version >= "3.4")
 commonmark==0.9.1; python_full_version >= "3.6.2" and python_full_version < "4.0.0"
