@@ -81,7 +81,7 @@ ossapi==2.2.3
 osu-tools==0.2.13; python_version >= "3"
 outcome==1.1.0; python_version >= "3.7" and python_version < "4.0"
 packaging==21.3; python_version >= "3.6"
-pathspec==0.9.0; python_full_version >= "3.6.2"
+pathspec==0.11.0; python_full_version >= "3.6.2"
 pbkdf2==1.3; python_version >= "3.7"
 pfzy==0.3.4; python_version >= "3.7" and python_version < "4.0"
 pillow==9.1.0; python_version >= "3.6"
