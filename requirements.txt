@@ -68,7 +68,7 @@ mergedeep==1.3.4; python_version >= "3.6"
 mkdocs-material-extensions==1.0.3; python_version >= "3.6"
 mkdocs-material==8.2.9
 mkdocs==1.3.0; python_version >= "3.6"
-mpmath==1.2.1; python_version >= "3.6"
+mpmath==1.3.0; python_version >= "3.6"
 multidict==6.0.2; python_version >= "3.6"
 mypy-extensions==0.4.3; python_full_version >= "3.6.2"
 nekos.py==1.0.3
