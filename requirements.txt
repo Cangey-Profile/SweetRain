@@ -42,7 +42,7 @@ fuzzywuzzy==0.18.0
 genshinstats==1.4.11.3; python_version >= "3.7"
 ghp-import==2.0.2; python_version >= "3.6"
 greenlet==1.1.2; python_version >= "3.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version >= "3.7"
-h11==0.13.0; python_version >= "3.7" and python_version < "4.0" and python_full_version >= "3.6.1"
+h11==0.16.0; python_version >= "3.7" and python_version < "4.0" and python_full_version >= "3.6.1"
 h2==4.1.0; python_version >= "3.6" and python_full_version >= "3.6.1"
 halo==0.0.31; python_version >= "3.4"
 hiredis==2.0.0; python_version >= "3.6"
