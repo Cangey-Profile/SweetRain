@@ -95,7 +95,7 @@ pyaes==1.6.1; python_version >= "3.7"
 pycord18n @ git+https://github.com/YoungTrep/pycord18n.git@main
 pycordutils==0.0.2; python_version >= "3.6"
 pycparser==2.21; python_full_version >= "3.8.0"
-pycryptodome==3.14.1; python_version >= "3.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version >= "3.7"
+pycryptodome==3.23.0; python_version >= "3.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version >= "3.7"
 pydantic==1.9.0; python_version >= "3.7" and python_version < "4.0" and python_full_version >= "3.6.1"
 pyee==9.0.4; python_version >= "3.7"
 pyfiglet==0.8.post1
