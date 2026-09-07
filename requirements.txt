@@ -102,7 +102,7 @@ pyfiglet==0.8.post1
 pygments==2.11.2; python_full_version >= "3.6.2" and python_full_version < "4.0.0" and python_version >= "3.5"
 pymdown-extensions==9.3; python_version >= "3.6"
 pynacl==1.5.0; python_full_version >= "3.8.0"
-pyopenssl==22.0.0; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.6.0" and python_version < "4"
+pyopenssl==26.4.0; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.6.0" and python_version < "4"
 pyparsing==3.0.8; python_version >= "3.7" and python_version < "4.0"
 pypika-tortoise==0.1.4; python_version >= "3.7" and python_version < "4.0"
 pypresence @ git+https://github.com/qwertyquerty/pypresence@master ; python_version >= "3.5"
